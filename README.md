@@ -13,7 +13,16 @@ Changes Made:
 
 . The type chart has now been reversed so anything that was super effective before is now resisted, and anything resisted is now super effective. Immunities are still the same as before.
 
-. Fairy type and updated catching mechanics
+. Fairy types
+
+. The Physical/Special split
+
+. Reusable TMs
+
+. Modern Shiny Odds (1/4096)
+
+. Updated UI for catching Pokemon
+
 
 
 Credits:
