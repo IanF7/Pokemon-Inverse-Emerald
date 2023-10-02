@@ -1,5 +1,6 @@
 # Pokemon-Inverse-Emerald
 This is a ROM hack of Pokemon Emerald where the type chart is inverted so that moves that were once super effective are now resisted and vise versa.
+
 How to Play:
 1. Download the Pokemon Inverse Emerald.xdelta file.
 2. Download an un-patched version of Pokemon Emerald.
