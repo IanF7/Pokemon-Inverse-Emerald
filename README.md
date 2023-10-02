@@ -9,8 +9,12 @@ How to Play:
 5. (Optional) The Inverse Type Chart is an excel sheet that has all of the new type matchups listed out, so download that if you want to.
 
 Changes Made:
+
 . The type chart has now been reversed so anything that was super effective before is now resisted, and anything resisted is now super effective. Immunities are still the same as before.
+
 . Fairy type and updated catching mechanics
 
+
 Credits:
+
 . Hack created by IanF0 using pokeemerald (created by pret) and pokeemerald-expansion (created by rh-hideout)
