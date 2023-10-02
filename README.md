@@ -5,6 +5,7 @@ How to Play:
 2. Download an un-patched version of Pokemon Emerald.
 3. Use an app or website (https://www.marcrobledo.com/RomPatcher.js/) to patch the file.
 4. Make sure you have a Game Boy Advanced emulator downloaded and run the patched version.
+5. (Optional) The Inverse Type Chart is an excel sheet that has all of the new type matchups listed out, so download that if you want to.
 
 Changes Made:
 . The type chart has now been reversed so anything that was super effective before is now resisted, and anything resisted is now super effective. Immunities are still the same as before.
