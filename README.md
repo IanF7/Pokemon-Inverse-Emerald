@@ -16,7 +16,6 @@ Changes Made:
 . Fairy type and updated catching mechanics
 
 
-
 Credits:
 
 . Hack created by IanF0 using pokeemerald (created by pret) and pokeemerald-expansion (created by rh-hideout)
