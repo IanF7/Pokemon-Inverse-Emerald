@@ -18,4 +18,4 @@ Changes Made:
 
 Credits:
 
-. Hack created by IanF0 using pokeemerald (created by pret) and pokeemerald-expansion (created by rh-hideout)
+. Hack created by IanF7 using pokeemerald (created by pret) and pokeemerald-expansion (created by rh-hideout)
