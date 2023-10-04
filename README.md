@@ -17,11 +17,15 @@ Changes Made:
 
 . The Physical/Special split
 
+. Gen 7 Movesets
+
 . Reusable TMs
 
 . Modern Shiny Odds (1/4096)
 
 . Updated UI for catching Pokemon
+
+. Rare Candies in every main shop for $300 (to help reduce grinding)
 
 
 
