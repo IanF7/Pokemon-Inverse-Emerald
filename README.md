@@ -30,7 +30,7 @@ Changes Made:
 
 . Rare Candies in every main shop for $500 (to help reduce grinding)
 
-. Fire, Water, Thunder, Leaf Stones, and Linking Cords can be purchased on the 4th floor of the Lilycove Department Store. 
+. Fire, Water, Thunder, Leaf Stones, and Linking Cords can be purchased on the 4th floor of the Lilycove Department Store and Heart Scales can be purchased on the second floor. 
 
 . This ROM hack uses pokeemerald and pokeemerald expansion, and they are not compatible with cheats. Cheats may corrupt game files, so test them out at your own risk.
 
